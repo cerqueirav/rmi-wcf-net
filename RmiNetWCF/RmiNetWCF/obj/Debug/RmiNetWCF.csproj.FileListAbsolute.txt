@@ -1,0 +1,8 @@
+C:\Users\Victor\source\repos\rmi-wcf-net\RmiNetWCF\RmiNetWCF\bin\Debug\RmiNetWCF.exe.config
+C:\Users\Victor\source\repos\rmi-wcf-net\RmiNetWCF\RmiNetWCF\bin\Debug\RmiNetWCF.exe
+C:\Users\Victor\source\repos\rmi-wcf-net\RmiNetWCF\RmiNetWCF\bin\Debug\RmiNetWCF.pdb
+C:\Users\Victor\source\repos\rmi-wcf-net\RmiNetWCF\RmiNetWCF\obj\Debug\RmiNetWCF.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\rmi-wcf-net\RmiNetWCF\RmiNetWCF\obj\Debug\RmiNetWCF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor\source\repos\rmi-wcf-net\RmiNetWCF\RmiNetWCF\obj\Debug\RmiNetWCF.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\rmi-wcf-net\RmiNetWCF\RmiNetWCF\obj\Debug\RmiNetWCF.exe
+C:\Users\Victor\source\repos\rmi-wcf-net\RmiNetWCF\RmiNetWCF\obj\Debug\RmiNetWCF.pdb
