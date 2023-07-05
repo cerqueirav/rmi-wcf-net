@@ -6,13 +6,20 @@ namespace WCFService
     {
         public class RemoteObject : MarshalByRefObject, IRemoteObject
         {
-            public int Somar(int a, int b)
+            public int Calculate(int a, int b, char op)
             {
-                Log();
-                return a + b;
+                ShowLog();
+                switch (op)
+                {
+                    case '+': return a + b;
+                    case '-': return a - b;
+                    case '*': return a * b;
+                    case '/': return a / b;
+                    default: return a+b;
+                }
             }
 
-            public void Log()
+            public void ShowLog()
             {
                 Console.WriteLine("Operação remota executada em: " + DateTime.Now);
             }

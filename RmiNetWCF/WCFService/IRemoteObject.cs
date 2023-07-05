@@ -2,6 +2,6 @@
 {
     public interface IRemoteObject
     {
-        int Somar(int a, int b);
+        int Calculate(int a, int b, char op);
     }
 }
